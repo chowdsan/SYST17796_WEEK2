@@ -1,5 +1,6 @@
 /**
- * A class to model students. Students can study. They have a name and an ID.
+ * A class to model students. Students can study. They have a name and an ID
+ * and now they have a program name.
  */
 package studentlist;
 

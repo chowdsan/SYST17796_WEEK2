@@ -57,7 +57,7 @@ public class Student
     }
     
     
- 
+    
     /**
      * a method that returns true if a student studies and false otherwise.
      * @return whether or not the student studied.

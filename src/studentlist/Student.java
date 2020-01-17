@@ -7,7 +7,6 @@ public class Student
 {
     private String name;
     private String studentID; 
-    private String program;
     
     /**
      * A constructor that takes in bot parameters.
@@ -47,21 +46,7 @@ public class Student
     public void setStudentID(String studentID) {
         this.studentID = studentID;
     }
-
-    /**
-     * @return the program
-     */
-    public String getProgram() {
-        return program;
-    }
-
-    /**
-     * @param program the program to set
-     */
-    public void setProgram(String program) {
-        this.program = program;
-    }
-    
+ 
     /**
      * a method that returns true if a student studies and false otherwise.
      * @return whether or not the student studied.
